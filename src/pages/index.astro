@@ -11,7 +11,6 @@ import Hero from '../components/Hero.astro';
 import Icon from '../components/Icon.astro';
 import Pill from '../components/Pill.astro';
 import PortfolioPreview from '../components/PortfolioPreview.astro';
-import {Button} from '@nextui-org/react';
 
 
 // Page section components
@@ -35,9 +34,6 @@ const projects = (await getCollection('work'))
 					title="Hi! I'm Willow Laing."
 					tagline="I am a Creative Developer who is currently based in Portland, Oregon."
 					align="start">
-					<main>
-						<Button color="primary" client:visible>My button</Button>
-					</main>
 					<div class="roles">
 						<Pill><Icon icon="code" size="1.33em" /> Developer</Pill>
 						<Pill><Icon icon="microphone-stage" size="1.33em" /> Speaker</Pill>
