@@ -1,6 +1,5 @@
 ---
 import Icon from './Icon.astro';
-import ThemeToggle from './ThemeToggle.astro';
 import type { iconPaths } from './IconPaths';
 
 /** Main menu items */
@@ -25,7 +24,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 	<div class="menu-header">
 		<a href="/" class="site-title">
 			<Icon icon="terminal-window" color="var(--accent-regular)" size="1.6em" gradient />
-			Jeanine White
+			Willow Laing
 		</a>
 		<menu-button>
 			<template>
@@ -109,9 +108,6 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 				}
 			</div>
 
-			<div class="theme-toggle">
-				<ThemeToggle />
-			</div>
 		</div>
 	</div>
 </nav>

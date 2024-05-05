@@ -32,20 +32,25 @@ const projects = (await getCollection('work'))
 			<header class="hero">
 				<Hero
 					title="Hi! I'm Willow Laing."
-					tagline="I am a Creative Developer who is currently based in Portland, Oregon."
-					align="start">
+					align="start"> <p>I am a designer and developer of digital spaces, currently based in <span class="underline decoration-from-font decoration-darkblue/50 decoration-wavy underline-offset-8" data-tooltip-target="tooltip-default" data-tooltip-placement="top">Edmonton, Alberta.</span> 🌨️</p><div id="tooltip-default" role="tooltip" class="absolute z-10 invisible inline-block px-5 py-2 text-base font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+						Go, Oilers! 🏒
+						<div class="tooltip-arrow" data-popper-arrow></div>
+					</div>
+
+					
+	
 					<div class="roles">
 						<Pill><Icon icon="code" size="1.33em" /> Developer</Pill>
 						<Pill><Icon icon="microphone-stage" size="1.33em" /> Speaker</Pill>
 						<Pill><Icon icon="pencil-line" size="1.33em" /> Writer</Pill>
 					</div>
 				</Hero>
-
-				<img
-					alt="Jeanine White smiling in a red plaid shirt and tortoise shell glasses"
-					width="480"
+				
+				<img class="bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5"
+					alt="A 3D model of Willow Laing in a beanie, glasses, long-sleeve shirt and jeans, holding a laptop."
+					width="580"
 					height="620"
-					src="/assets/portrait.jpg"
+					src="/assets/portrait.png"
 				/>
 			</header>
 
@@ -123,7 +128,6 @@ const projects = (await getCollection('work'))
 		object-fit: cover;
 		object-position: top;
 		border-radius: 1.5rem;
-		box-shadow: var(--shadow-md);
 	}
 
 	@media (min-width: 50em) {
@@ -142,7 +146,6 @@ const projects = (await getCollection('work'))
 
 		.hero img {
 			aspect-ratio: 3 / 4;
-			border-radius: 4.5rem;
 			object-fit: cover;
 		}
 	}
