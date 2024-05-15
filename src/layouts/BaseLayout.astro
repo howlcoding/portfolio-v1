@@ -21,6 +21,7 @@ const { title, description } = Astro.props;
 		<MainHead title={title} description={description} />
 	</head>
 	<body>
+		<div id="my-mouse"></div>
 		<div class="fixed w-full h-full">
 		<div class="absolute -top-28 left-48 w-80 h-48 bg-babyblue rounded-full filter blur-2xl opacity-15"></div>
 		<div class="absolute top-20 right-1 w-72 h-72 bg-limegreen rounded-full filter blur-2xl opacity-15"></div>
@@ -35,8 +36,10 @@ const { title, description } = Astro.props;
 		</div>
 
 		<script>
+
 			// Add “loaded” class once the document has completely loaded.
 			addEventListener('load', () => document.documentElement.classList.add('loaded'));
+
 		</script>
 
 		<style>
@@ -49,8 +52,6 @@ const { title, description } = Astro.props;
 				--bg-gradient-size: calc(var(--bg-scale) * 100%);
 				--primaryblue: 39, 41, 73;
 			}
-
-
 
 			@media (min-width: 50em) {
 				:root {
@@ -80,5 +81,35 @@ const { title, description } = Astro.props;
 			}
 		</style>
 		<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js"></script>
+		<script>
+let myDiv = document.getElementById("my-mouse");
+
+function isTouchDevice() {
+  try {
+    document.createEvent("TouchEvent");
+    return true;
+  } catch (e) {
+    return false;
+  }
+}
+const move = (e) => {
+  try {
+
+    var x = !isTouchDevice() ? e.pageX : e.touches[0].pageX;
+    var y = !isTouchDevice() ? e.pageY : e.touches[0].pageY;
+  } catch (e) {}
+
+  myDiv.style.left = x - 0 + "px";
+  myDiv.style.top = y - 0 + "px";
+};
+
+document.addEventListener("mousemove", (e) => {
+  move(e);
+});
+
+document.addEventListener("touchmove", (e) => {
+  move(e);
+});
+		</script>
 	</body>
 </html>

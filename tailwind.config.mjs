@@ -11,6 +11,9 @@ export default {
 			darkblue: '#516CF7',
 			graybg: '#f3f4f6',
 		  },
+		  animation: {
+			'bounce-slow': 'bounce 2s linear infinite',
+		  },
 	},
 	plugins: [
 		require('flowbite/plugin')
