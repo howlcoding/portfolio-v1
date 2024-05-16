@@ -37,7 +37,7 @@ const { Content } = await entry.render();
 							<div class="tags">
 								{entry.data.tags.map((t) => <Pill>{t}</Pill>)}
 							</div>
-							<p class="description">{entry.data.description}</p>
+							<p class="description">{entry.data.description} <br><a class="underline underline-offset-4" href={entry.data.url}>View Site <Icon icon="arrow-right" size="1em" /></a></p>
 						</div>
 					</Hero>
 				</div>
