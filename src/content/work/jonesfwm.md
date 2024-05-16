@@ -1,14 +1,14 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
+title: Jones FWM
+publishDate: 2024-05-15 00:00:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Soft purple discs stacked and floating against a purple-grey background.
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
-  - Design
   - Dev
-  - User Testing
+  - Design
+  - Branding
 ---
 
 ## Level-two heading

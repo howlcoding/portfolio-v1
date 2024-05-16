@@ -3,14 +3,29 @@
 <style>
 	.pill {
 		display: flex;
-		padding: 0.5rem 1rem;
+		padding-top: 0.375rem;
+    	padding-bottom: 0.375rem;
+		padding-left: 1rem;
+   		padding-right: 1rem;
 		gap: 0.5rem;
-		color: var(--accent-text-over);
-		border: 1px solid var(--accent-regular);
-		background-color: var(--accent-regular);
-		border-radius: 999rem;
-		font-size: var(--text-md);
-		line-height: 1.35;
+		color: #c3cadb;
+		border-color: rgb(243 244 246 / 0.05);
+		border-width: 2px;
+		font-weight: 500;
+		background-color: rgba(81,108,247,0.5);
+		border-radius: 1.5rem;
+		font-size: 0.875rem;
+    	line-height: 1.25rem;
 		white-space: nowrap;
+		transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+		transition-duration: 200ms;
+
+	}
+
+	.pill:hover {
+		background-color: rgb(81 108 247);
+		--tw-scale-x: 1.1;
+   		--tw-scale-y: 1.1;
+		transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 	}
 </style>
