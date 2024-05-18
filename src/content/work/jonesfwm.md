@@ -4,7 +4,7 @@ publishDate: 2024-05-15 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Soft purple discs stacked and floating against a purple-grey background.
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Designing a stylish and professional site for finance pros.
 tags:
   - Dev
   - Design
