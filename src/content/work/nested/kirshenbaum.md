@@ -15,7 +15,7 @@ url: https://www.kbcbakery.com/
 Kirshenbaum is a family owned and operated bakery that experienced viral fame shortly after opening. Following a rocky initial website launch, they reached out and contacted our team to start from the ground up.
 
 
-<img class="h-auto max-w-sm mx-auto my-10" src="/assets/kbc-logo.png" alt="image description">
+<img class="h-auto max-w-sm mx-auto my-10" src="/assets/kbc-logo.png" alt="Kirschenbaum Baking Co's logo.">
 
 
 KBC had multiple needs. Firstly, their website had to be fun, warm, welcoming and appealing- a space that felt
@@ -127,23 +127,23 @@ was crafted with attention and care.
     <div class="relative h-40 overflow-hidden rounded-md">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-button.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/kbc-button.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's button design.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/kbc-menu.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/kbc-menu.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's menu.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-faq.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/kbc-faq.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's FAQ section.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-footer.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/kbc-footer.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's footer.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-markers.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/kbc-markers.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's location markers on a map.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -211,21 +211,21 @@ For the most capabilities, we decided to use <a href="https://www.shopify.com/">
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cookie.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cookie.png" alt="An image of a KBC cookie.">
     </div>
     <div>
-        <img class="h-full w-full rounded-lg object-cover" src="/assets/kbc-description.png" alt="">
+        <img class="h-full w-full rounded-lg object-cover" src="/assets/kbc-description.png" alt="An image of a KBC product description.">
     </div>
     <div>
-        <img class="h-full w-full object-cover rounded-lg" src="/assets/kbc-checkout.png" alt="">
+        <img class="h-full w-full object-cover rounded-lg" src="/assets/kbc-checkout.png" alt="An image of KBC's checkout section.">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cart.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cart.png" alt="An image of KBC's cart.">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-shopify.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-shopify.png" alt="An image of KBC's shopify layout.">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-toast.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-toast.png" alt="An image of KBC's Toast menu.">
     </div>
 </div>
