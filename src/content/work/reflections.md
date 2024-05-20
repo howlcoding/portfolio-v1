@@ -42,7 +42,7 @@ url: https://reflectionscny.com/
 Reflections Management and Care is truly a business born out of love, empathy, and understanding. At the start, they were a team of just two individuals dedicated to the advocacy of seniors, and to assist them in maintaining their independence in their own homes. With over 20 years of experience, the duo had a formidable vault of knowledge in their field and a broad range of services, but they needed a helping hand to make those services accessible to clients and their families.
 
 
-<img class="h-auto max-w-sm mx-auto my-10" src="/assets/reflections-card.png" alt="Kirschenbaum Baking Co's logo.">
+<img class="h-auto max-w-sm mx-auto my-10" src="/assets/reflections-card.png" alt="Reflections Management and Care's logo card.">
 
 
 The focus when designing and developing Reflections' website was clear: ease of use. Information needed to be easy to acess, services needed to be clear, and navigation straightforward. With that being said, it was also important to me that the site had a cozy, comfortable feel to it; clientele were often going through difficult, uncertain periods in their lives. Reflections had to reach out through that and be a reliable hand to guide them through. So, with accessibility and comfort in the forefront of my mind, we launched in to branding.

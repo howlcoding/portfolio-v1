@@ -40,12 +40,12 @@ url: https://envisionedevent.com/
 
 <br><br>
 
-Out of my pool of clients, Paul of Envision Entertainment could be the most infectiously enthusiastic. 
+Out of my pool of clients, Paul of Envision Entertainment could be the most infectiously enthusiastic. Leaving his day job as a mechanical engineering designer to pursue his passions, Paul found success as an energetic wedding DJ for couples all across New York. Word of mouth was an encouraging start, but as his business grew, so did his advertising needs. Paul entrusted us to create a website that embodied one word above all: <i class="text-darkblue">party</i>.
 
 
-<img class="h-auto max-w-md mx-auto my-10" src="/assets/jones-bio.png" alt="Shaun Jones' biography.">
+<img class="h-auto max-w-sm mx-auto my-10" src="/assets/envision-logo.png" alt="Envision Entertainment's logo.">
 
-Jones' new website needed to provide a seamless transition from prior hosting, where clients were able to access a variety of portals. Additionally, special focus was going to be given to Jones' recently published book, bringing attention to its release and what it could provide. Post-launch, Jones would request an expansion of his site to encompass the field of real-estate he'd branched into, and finally, as with any project, bringing in new clientele was essential.
+The tone of Envision Entertainment was somewhat twofold, equal parts what most weddings tended to be; a party, a celebration, but also a sentimental and classical event. More than just DJing, Paul had expanded to offering photo booth services, lighting, special effects and corporate events. His site needed to show off all these services without either overwhelming or detracting from each other. Paul was also an avid blogger of his events, so being able to quickly and easily publish featured weddings was a must. 
 
 <br><br>
 
@@ -57,68 +57,68 @@ Jones' new website needed to provide a seamless transition from prior hosting, w
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
             </svg>
-            Modern <span class="hidden sm:inline-flex sm:ms-1">Design</span>
+            Exciting <span class="hidden sm:inline-flex sm:ms-1">Design</span>
         </span>
     </li>
     <li class="flex md:w-full items-center after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
         <span class="flex items-center after:content-['/'] sm:after:hidden after:mx-2 after:text-gray-500">
             <span class="me-2">2.</span>
-            Easy <span class="hidden sm:inline-flex sm:ms-1">Integration</span>
+            Multiple <span class="hidden sm:inline-flex sm:ms-1">Products</span>
         </span>
     </li>
     <li class="flex items-center">
         <span class="me-2">3.</span>
-        New <span class="hidden sm:inline-flex sm:ms-1">Content</span>
+        Regular <span class="hidden sm:inline-flex sm:ms-1">Publishings</span>
     </li>
 </ol>
 
 
 <br><br>
 
-With a pre-established logo in existence, our main design focuses were on palette, core components, and organization of information in a way that made sense and wasn't overwhelming for readers. Blue was our ultimate choice for core color, for both its usage in Jones' book cover, and its fresh, futuristic feel.
+Paul's existing logo was elegant and simple, making it also versatile. I was confident in being able to blend it in anywhere on the site without clashing against any of the more excitable elements, but with so much colorful imagery and videos, we still needed to choose design elements that would ground the project and pull it all together.
+
+We settled on a bright, energetic purple, one of my own favorite colors to use in design. Flashes of it were located throughout much of the graphics on-site, which made it suitable for buttons and links to match without getting lost in the sea of color. Letting all of that take care of the fluorishes, our typeface choices were based on thick, bold lettering that would be legible but more understated.
 
 <br><br>
 
-The versatility of it worked to our advantage, allowing us to use variations where needed without muddling up the overall design.
-
 <figure class="max-w-lg mx-auto">
-  <img class="h-auto max-w-lg rounded-lg" src="/assets/jones-logo.webp" alt="Jones Fiduciary Wealth Management Logo.">
-   <figcaption class="mx-auto -mt-4 text-sm text-center w-56 text-gray-400 italic">Typefaces: Barlow and Montserrat
-        <div class="w-64 mt-2">
-        <span class="bg-[#0565A6]/10 text-[#0565A6] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#0565A6]">#0565A6</span>
-        <span class="bg-[#57CEF8]/10 text-[#57CEF8] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#57CEF8]">#57CEF8</span>
-        <span class="bg-white/50 text-[#11233B] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#11233B]">#11233B</span></div>
+  <img class="h-auto max-w-lg rounded-lg" src="/assets/envision-bio.png" alt="Jones Fiduciary Wealth Management Logo.">
+   <figcaption class="mx-auto mt-4 text-sm text-center w-58 text-gray-400 italic">Typefaces: Montserrat and Noto Sans
+        <div class="w-68 mt-2">
+        <span class="bg-[#6F33E8]/10 text-[#6F33E8] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#6F33E8]">#6F33E8</span>
+        <span class="bg-white/50 text-[#222222] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#222222]">#222222</span>
+        <span class="bg-white/40 text-[#FAFAFC] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#FAFAFC]">#FAFAFC</span></div>
 </figure>
 
 
 <br><br>
 
-The color envokes trust, efficiency and intelligence, and when paired with images of high-speed tech and well-made charts, the effect really shines through. Crisp white icons and text against the darker blues help to draw the eye to important elements, and we break it all up in chunks of digestible information, with the intent to minimize eye fatigue and maximize visual interest.
+The components of the site themselves were where the design really shone. Photos and videos of wedding parties- some taken at Envision's own events- were placed all throughout. With how stressful wedding planning can be, Paul was offering to bring back the excitement and fun.
 
-<br><br>
+<br>
 
 <div id="custom-controls-gallery" class="relative w-full" data-carousel="slide">
     <!-- Carousel wrapper -->
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-three-rows.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' three step plan.">
+            <img src="/assets/envision-header.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Envision's header.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/jones-promise.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' promise to clients.">
+            <img src="/assets/envision-service-bar.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="A bar showing Envision's services.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-scheduling.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' call scheduling section with glassmorphism.">
+            <img src="/assets/envision-photos.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="A gallery of Envision's event photos.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-podcast.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' podcast information.">
+            <img src="/assets/envision-awards.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="CTA section showing Envision's awards.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-commentary.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' commentary articles.">
+            <img src="/assets/envision-paul.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Section featuring a message from Envision's founder.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -150,7 +150,7 @@ The color envokes trust, efficiency and intelligence, and when paired with image
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
             </svg>
-            Modern <span class="hidden sm:inline-flex sm:ms-1">Design</span>
+            Exciting <span class="hidden sm:inline-flex sm:ms-1">Design</span>
         </span>
     </li>
     <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
@@ -158,24 +158,23 @@ The color envokes trust, efficiency and intelligence, and when paired with image
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
             </svg>
-            Easy <span class="hidden sm:inline-flex sm:ms-1">Integration</span>
+            Multiple <span class="hidden sm:inline-flex sm:ms-1">Products</span>
         </span>
     </li>
      <li class="flex items-center">
         <span class="me-2">3.</span>
-        New <span class="hidden sm:inline-flex sm:ms-1">Content</span>
+        Regular <span class="hidden sm:inline-flex sm:ms-1">Publishings</span>
     </li>
 </ol>
 
 <br><br>
 
-Jones' services included a number of different portals, where clients could access their accounts, funds, and schedule various types of meetings. Allowing clients to continue usage without risk of confusion or delay was a non-negotiable, which meant adapting to the new design without shaking things up too much. This led us to use pre-existing integrations where layouts would be the same for all practical purposes, with adjustments made where necessary on purely a design level to coordinate with the new look.
+Envision Entertainment doesn't <i class="text-darkblue">only</i> offer DJing. Photo booths, lighting, special effects and more were also involved. A brand new service was launched recently alongside his primary offerings; vintage phone rentals for guests to leave messages on throughout the reception. We were requested to design a new logo for this offering, along with a landing page of its own.
 
-<br><br>
 
-Integrations were made with <a href="https://main.advyzon.com/main/index.html">Advyzon</a>, <a href="https://get.appointmentcore.com/">AppointmentCore</a>, <a href="https://emoneyadvisor.com/">eMoney</a>, and <a href="https://altpro.umb.com/">AltPro</a>.
+<img class="h-auto max-w-sm mx-auto my-10" src="/assets/envision-lat-logo.png" alt="Envision Entertainment's phone rental service logo.">
 
-<br><br>
+The purpose of this logo was to capture retro-romance, playful but romantic. Envision's services were broken up into their own informational pages, but Love After Tone featured specialized designs separate from the rest of the site and additional pages to explain services.
 
 
 <div id="custom-controls-gallery" class="relative w-full" data-carousel="slide">
@@ -183,19 +182,19 @@ Integrations were made with <a href="https://main.advyzon.com/main/index.html">A
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-appointment.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' appointment integration.">
+            <img src="/assets/envision-lat-footer.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Love After Tone's footer.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/jones-portal.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' client portal integration.">
+            <img src="/assets/envision-lat-cta.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Love After Tone's CTA.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-client-menu.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' client drop-down menu.">
+            <img src="/assets/envision-service-pricing.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="One of Envision's pricing sections.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-client-footer.png" class="absolute block max-w-full h-56 object-cover -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' client portal menu located in footer.">
+            <img src="/assets/envision-estimate.png" class="absolute block max-w-full h-56 object-cover -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Envision's pricing estimate calculator.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -226,7 +225,7 @@ Integrations were made with <a href="https://main.advyzon.com/main/index.html">A
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
             </svg>
-            Modern <span class="hidden sm:inline-flex sm:ms-1">Design</span>
+            Exciting <span class="hidden sm:inline-flex sm:ms-1">Design</span>
         </span>
     </li>
     <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
@@ -234,7 +233,7 @@ Integrations were made with <a href="https://main.advyzon.com/main/index.html">A
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
             </svg>
-            Easy <span class="hidden sm:inline-flex sm:ms-1">Integration</span>
+            Multiple <span class="hidden sm:inline-flex sm:ms-1">Products</span>
         </span>
     </li>
    <li class="flex items-center">
@@ -242,40 +241,35 @@ Integrations were made with <a href="https://main.advyzon.com/main/index.html">A
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
             </svg>
-       New <span class="hidden sm:inline-flex sm:ms-1">Content</span>
+       Regular <span class="hidden sm:inline-flex sm:ms-1">Publishings</span>
         </span>
     </li>
 </ol>
 
 <br><br>
 
-As I mentioned in the overview, Jones' book, <i class="text-darkblue">UnBrainwashed Investing</i> had just recently been published. While being a secondary offering from his overall customer services, it was nonetheless a great achievement and an important inclusion on his website in its own right. I strived to give it an almost separate space, a dedicated page where it could singularly shine, while also adding in mentions and reminders in other areas as tie-ins where it made sense.
-
-<br><br>
-
-The end result was a sort of miniature landing page of its own, giving it the space to show quotes, links, and information on the book's intent and purpose as a whole. 
+With the number of events Envision was becoming involved in, Paul decided to write blog entries covering playlists, theme, and pictures of the event itself, both to record Envision's successes and to provide examples to clients of real events with their services. We created a simple template that could be used as many times as needed in order to post weekly to the website.
 
 <br><br>
 
 
 
-<div class="grid grid-cols-1 gap-4">
-    <div>
-        <img class="h-auto max-w-full object-cover rounded-lg" src="/assets/jones-book-quote.png" alt="A quote from Jones' book.">
+
+
+<div class="grid grid-cols-3 gap-4">
+ <div class="grid gap-4">
+        <div>
+            <img class="h-80 max-w-full rounded" src="/assets/envision-blog-1.png" alt="An example of Envision's blog posts.">
+        </div>
     </div>
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/jones-book-points.png" alt="Bullet points about Jones' book.">
+    <div class="grid gap-4">
+        <div>
+            <img class="h-80 max-w-full bg-white p-1 rounded" src="/assets/envision-blog-2.png" alt="An example of Envision's blog posts.">
+        </div>
     </div>
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/jones-free-chapter.png" alt="A section offering access to a free chapter of Jones' book.">
-    </div>
-</div>
-<br>
-<div class="grid grid-cols-2 gap-2">
-    <div>
-        <img class="h-56 w-72 object-cover rounded-lg" src="/assets/jones-book-cover.jpeg" alt="Jones' book cover.">
-    </div>
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/jones-author.png" alt="Information on Jones as an author.">
+        <div class="grid gap-4">
+        <div>
+            <img class="h-80 max-w-full pl-2 bg-white rounded" src="/assets/envision-blog-3.png" alt="An example of Envision's blog posts.">
+        </div>
     </div>
 </div>
