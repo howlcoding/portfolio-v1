@@ -11,8 +11,8 @@ tags:
   - Maintenance
 url: https://reflectionscny.com/
 ---
-<div class="grid gap-4 grid-cols-3">
-<div class="max-w-52 p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
+<div class="grid gap-4 grid-cols-1 md:grid-cols-3 justify-items-center">
+<div class="h-auto max-w-52 p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
     <svg class="w-8 h-8 text-gray-400 mx-auto mb-2 text-center group-hover:text-darkblue" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 256 256">
        <path d="M16 176a8 8 0 0 1 8-8h8V152a96.12 96.12 0 0 1 88-95.66V40H104a8 8 0 0 1 0-16h48a8 8 0 0 1 0 16H136V56.34A96.12 96.12 0 0 1 224 152v16h8a8 8 0 0 1 0 16H24A8 8 0 0 1 16 176Zm216 24H24a8 8 0 0 0 0 16H232a8 8 0 0 0 0-16Z"/>
        </svg>
@@ -20,7 +20,7 @@ url: https://reflectionscny.com/
         <p class="font-normal text-gray-400 text-center">Increase in services</p>
 </div>
 
-<div class="max-w-52 p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
+<div class="h-auto max-w-52 p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
     <svg class="w-8 h-8 text-gray-400 mx-auto mb-2 text-center group-hover:text-darkblue" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 256 256">
         <path d="M64.12,147.8a4 4 0 0 1-4 4.2H16a8 8 0 0 1-7.8-6.17 8.35 8.35 0 0 1 1.62-6.93A67.79 67.79 0 0 1 37 117.51a40 40 0 1 1 66.46-35.8 3.94 3.94 0 0 1-2.27 4.18A64.08 64.08 0 0 0 64 144C64 145.28 64 146.54 64.12 147.8Zm182-8.91A67.76,67.76,0,0,0,219,117.51a40,40,0,1,0-66.46-35.8,3.94,3.94,0,0,0,2.27,4.18A64.08,64.08,0,0,1 192 144c0 1.28 0 2.54-.12 3.8a4 4 0 0 0 4 4.2H240a8 8 0 0 0 7.8-6.17A8.33 8.33 0 0 0 246.17 138.89Zm-89 43.18a48 48 0 1 0-58.37 0A72.13 72.13 0 0 0 65.07 212 8 8 0 0 0 72 224H184a8 8 0 0 0 6.93-12A72.15 72.15 0 0 0 157.19 182.07Z"/>
     </svg>
@@ -28,7 +28,7 @@ url: https://reflectionscny.com/
         <p class="font-normal text-gray-400 text-center">Growth in team size</p>
 </div>
 
-<div class="max-w-52 p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 ransition duration-200 hover:scale-110 hover:border-darkblue group">
+<div class="h-auto max-w-52 p-8 md:p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
     <svg class="w-8 h-8 text-gray-400 mx-auto mb-2 text-center group-hover:text-darkblue" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 256 256">
         <path d="M232 208H213.69L153.42 34.75A16 16 0 0 0 138.31 24H117.69a16 16 0 0 0-15.1110.74L42.31 208H24a8 8 0 0 0 0 16H232a8 8 0 0 0 0-16ZM95.43 104h65.14l16.7 48H78.73Z"/>
     </svg>
@@ -42,7 +42,7 @@ url: https://reflectionscny.com/
 Reflections Management and Care is truly a business born out of love, empathy, and understanding. At the start, they were a team of just two individuals dedicated to the advocacy of seniors, and to assist them in maintaining their independence in their own homes. With over 20 years of experience, the duo had a formidable vault of knowledge in their field and a broad range of services, but they needed a helping hand to make those services accessible to clients and their families.
 
 
-<img class="h-auto max-w-sm mx-auto my-10" src="/assets/reflections-card.png" alt="Reflections Management and Care's logo card.">
+<img class="h-auto md:max-w-sm mx-auto my-10" src="/assets/reflections-card.png" alt="Reflections Management and Care's logo card.">
 
 
 The focus when designing and developing Reflections' website was clear: ease of use. Information needed to be easy to acess, services needed to be clear, and navigation straightforward. With that being said, it was also important to me that the site had a cozy, comfortable feel to it; clientele were often going through difficult, uncertain periods in their lives. Reflections had to reach out through that and be a reliable hand to guide them through. So, with accessibility and comfort in the forefront of my mind, we launched in to branding.
@@ -52,7 +52,7 @@ The focus when designing and developing Reflections' website was clear: ease of 
 
 
 <ol class="flex items-center w-full text-small font-medium text-center text-gray-400 sm:text-base">
-    <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
+    <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 md:basis-64">
         <span class="flex items-center after:content-['/'] sm:after:hidden after:mx-2 after:text-gray-500">
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
@@ -60,7 +60,7 @@ The focus when designing and developing Reflections' website was clear: ease of 
             New <span class="hidden sm:inline-flex sm:ms-1">Branding</span>
         </span>
     </li>
-    <li class="flex md:w-full items-center after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
+    <li class="flex md:w-full items-center after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-6 md:after:mx-4 xl:after:mx-8 after:border-gray-400 md:basis-64">
         <span class="flex items-center after:content-['/'] sm:after:hidden after:mx-2 after:text-gray-500">
             <span class="me-2">2.</span>
             Accessible <span class="hidden sm:inline-flex sm:ms-1">Site</span>
@@ -83,13 +83,13 @@ We created three staples- one in color, one in white, and one in black.
 
 
 
-<div class="grid grid-cols-3 gap-4 my-8">
+<div class="grid md:grid-cols-3 gap-4 my-8">
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/reflections-logo.png" alt="Reflections Management and Care's logo in white.">
+        <img class="h-auto max-w-full rounded-lg mb-4 md:mb-0" src="/assets/reflections-logo.png" alt="Reflections Management and Care's logo in white.">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg bg-white p-2" src="/assets/reflections-logo-color.webp" alt="Reflections Management and Care's logo.">
-        <figcaption class="mt-2 -ml-2 text-sm text-center w-56 text-gray-400 italic">Typefaces: Lora and Arial
+        <img class="h-auto max-w-full rounded-lg bg-white mb-4 md:mb-0 p-2" src="/assets/reflections-logo-color.webp" alt="Reflections Management and Care's logo.">
+        <figcaption class="mx-auto mb-2 md:mb-0 md:mt-2 md:-ml-2 text-sm text-center w-56 text-gray-400 italic">Typefaces: Lora and Arial
         <div class="w-64 mt-2">
         <span class="bg-[#DDC487]/10 text-[#DDC487] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#DDC487]">#DDC487</span>
         <span class="bg-graybg/50 text-[#235363] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#235363]">#235363</span>
@@ -108,7 +108,7 @@ For the site's palette, we elected to use a soft, muted blue-green paired with v
 <br><br>
 
 <ol class="flex items-center w-full text-small font-medium text-center text-gray-400 sm:text-base">
-    <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
+    <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-6 md:after:mx-4 xl:after:mx-8 after:border-gray-400 md:basis-64">
         <span class="flex items-center after:content-['/'] sm:after:hidden after:mx-2 after:text-gray-500">
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
@@ -116,7 +116,7 @@ For the site's palette, we elected to use a soft, muted blue-green paired with v
             New <span class="hidden sm:inline-flex sm:ms-1">Branding</span>
         </span>
     </li>
-    <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 basis-64">
+    <li class="flex md:w-full items-center text-blue-500 sm:after:content-[''] after:w-full after:h-1 after:border-b after:border-1 after:hidden sm:after:inline-block after:mx-4 xl:after:mx-8 after:border-gray-400 md:basis-64">
         <span class="flex items-center after:content-['/'] sm:after:hidden after:mx-2 after:text-gray-500">
             <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
@@ -139,23 +139,23 @@ Once we'd ensured the colors and fonts across the site fit the tone and clientel
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-two-columns.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Descriptions of two of Reflections' main services.">
+            <img src="/assets/reflections-two-columns.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Descriptions of two of Reflections' main services.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/reflections-services.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="All of Reflections' services.">
+            <img src="/assets/reflections-services.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="All of Reflections' services.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-glassmorphism.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' contact section using glassmorphism.">
+            <img src="/assets/reflections-glassmorphism.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' contact section using glassmorphism.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-map.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' footer with map, address and business hours.">
+            <img src="/assets/reflections-map.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' footer with map, address and business hours.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-faq.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' FAQ section on one of their services.">
+            <img src="/assets/reflections-faq.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' FAQ section on one of their services.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -228,23 +228,23 @@ Modules were included for each team member, and company accolades are present on
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-testimonials.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' testimonials.">
+            <img src="/assets/reflections-testimonials.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' testimonials.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/reflections-bio.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Biography of Reflections' founder.">
+            <img src="/assets/reflections-bio.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Biography of Reflections' founder.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-team.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' team members and a bio module.">
+            <img src="/assets/reflections-team.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' team members and a bio module.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-accolades.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Icons of Reflections' accolades.">
+            <img src="/assets/reflections-accolades.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Icons of Reflections' accolades.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/reflections-contact.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' contact page.">
+            <img src="/assets/reflections-contact.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Reflections' contact page.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
