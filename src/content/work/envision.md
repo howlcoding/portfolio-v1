@@ -12,8 +12,8 @@ tags:
 url: https://envisionedevent.com/
 ---
 
-<div class="grid gap-4 grid-cols-3">
-<div class="max-w-52 p-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
+<div class="grid gap-4 grid-cols-1 md:grid-cols-3 justify-items-center">
+<div class="max-w-52 p-9 md:py-6 bg-graybg/5 rounded-md backdrop-blur-sm border-2 border-graybg/5 transition duration-200 hover:scale-110 hover:border-darkblue group">
     <svg class="w-8 h-8 text-gray-400 mx-auto mb-2 text-center group-hover:text-darkblue" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 256 256">
         <path d="M216 64H56a8 8 0 0 1 0-16H192a8 8 0 0 0 0-16H56A24 24 0 0 0 32 56V184a24 24 0 0 0 24 24H216a16 16 0 0 0 16-16V80A16 16 0 0 0 216 64Zm-36 80a12 12 0 1 1 12-12A12 12 0 0 1 180 144Z"/>
     </svg>
@@ -43,7 +43,7 @@ url: https://envisionedevent.com/
 Out of my pool of clients, Paul of Envision Entertainment could be the most infectiously enthusiastic. Leaving his day job as a mechanical engineering designer to pursue his passions, Paul found success as an energetic wedding DJ for couples all across New York. Word of mouth was an encouraging start, but as his business grew, so did his advertising needs. Paul entrusted us to create a website that embodied one word above all: <i class="text-darkblue">party</i>.
 
 
-<img class="h-auto max-w-sm mx-auto my-10" src="/assets/envision-logo.png" alt="Envision Entertainment's logo.">
+<img class="h-auto md:max-w-sm mx-auto my-10" src="/assets/envision-logo.png" alt="Envision Entertainment's logo.">
 
 The tone of Envision Entertainment was somewhat twofold, equal parts what most weddings tended to be; a party, a celebration, but also a sentimental and classical event. More than just DJing, Paul had expanded to offering photo booth services, lighting, special effects and corporate events. His site needed to show off all these services without either overwhelming or detracting from each other. Paul was also an avid blogger of his events, so being able to quickly and easily publish featured weddings was a must. 
 
@@ -76,13 +76,13 @@ The tone of Envision Entertainment was somewhat twofold, equal parts what most w
 <br><br>
 
 Paul's existing logo was elegant and simple, making it also versatile. I was confident in being able to blend it in anywhere on the site without clashing against any of the more excitable elements, but with so much colorful imagery and videos, we still needed to choose design elements that would ground the project and pull it all together.
-
+<br><br>
 We settled on a bright, energetic purple, one of my own favorite colors to use in design. Flashes of it were located throughout much of the graphics on-site, which made it suitable for buttons and links to match without getting lost in the sea of color. Letting all of that take care of the fluorishes, our typeface choices were based on thick, bold lettering that would be legible but more understated.
 
 <br><br>
 
 <figure class="max-w-lg mx-auto">
-  <img class="h-auto max-w-lg rounded-lg" src="/assets/envision-bio.png" alt="Jones Fiduciary Wealth Management Logo.">
+  <img class="h-auto md:max-w-lg rounded-lg" src="/assets/envision-bio.png" alt="Jones Fiduciary Wealth Management Logo.">
    <figcaption class="mx-auto mt-4 text-sm text-center w-58 text-gray-400 italic">Typefaces: Montserrat and Noto Sans
         <div class="w-68 mt-2">
         <span class="bg-[#6F33E8]/10 text-[#6F33E8] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#6F33E8]">#6F33E8</span>
@@ -102,23 +102,23 @@ The components of the site themselves were where the design really shone. Photos
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-header.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Envision's header.">
+            <img src="/assets/envision-header.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Envision's header.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/envision-service-bar.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="A bar showing Envision's services.">
+            <img src="/assets/envision-service-bar.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="A bar showing Envision's services.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-photos.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="A gallery of Envision's event photos.">
+            <img src="/assets/envision-photos.png" class="absolute block max-w-full h-auto m:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="A gallery of Envision's event photos.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-awards.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="CTA section showing Envision's awards.">
+            <img src="/assets/envision-awards.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="CTA section showing Envision's awards.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-paul.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Section featuring a message from Envision's founder.">
+            <img src="/assets/envision-paul.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Section featuring a message from Envision's founder.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -172,7 +172,7 @@ The components of the site themselves were where the design really shone. Photos
 Envision Entertainment doesn't <i class="text-darkblue">only</i> offer DJing. Photo booths, lighting, special effects and more were also involved. A brand new service was launched recently alongside his primary offerings; vintage phone rentals for guests to leave messages on throughout the reception. We were requested to design a new logo for this offering, along with a landing page of its own.
 
 
-<img class="h-auto max-w-sm mx-auto my-10" src="/assets/envision-lat-logo.png" alt="Envision Entertainment's phone rental service logo.">
+<img class="h-auto md:max-w-sm mx-auto my-10" src="/assets/envision-lat-logo.png" alt="Envision Entertainment's phone rental service logo.">
 
 The purpose of this logo was to capture retro-romance, playful but romantic. Envision's services were broken up into their own informational pages, but Love After Tone featured specialized designs separate from the rest of the site and additional pages to explain services.
 
@@ -182,19 +182,19 @@ The purpose of this logo was to capture retro-romance, playful but romantic. Env
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-lat-footer.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Love After Tone's footer.">
+            <img src="/assets/envision-lat-footer.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Love After Tone's footer.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/envision-lat-cta.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Love After Tone's CTA.">
+            <img src="/assets/envision-lat-cta.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Love After Tone's CTA.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-service-pricing.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="One of Envision's pricing sections.">
+            <img src="/assets/envision-service-pricing.png" class="absolute block max-w-full h-auto md:h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="One of Envision's pricing sections.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/envision-estimate.png" class="absolute block max-w-full h-56 object-cover -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Envision's pricing estimate calculator.">
+            <img src="/assets/envision-estimate.png" class="absolute block max-w-full h-auto md:h-56 object-cover -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Envision's pricing estimate calculator.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -259,17 +259,17 @@ With the number of events Envision was becoming involved in, Paul decided to wri
 <div class="grid grid-cols-3 gap-4">
  <div class="grid gap-4">
         <div>
-            <img class="h-80 max-w-full rounded" src="/assets/envision-blog-1.png" alt="An example of Envision's blog posts.">
+            <img class="md:h-80 max-w-full rounded md:p-0" src="/assets/envision-blog-1.png" alt="An example of Envision's blog posts.">
         </div>
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-80 max-w-full bg-white p-1 rounded" src="/assets/envision-blog-2.png" alt="An example of Envision's blog posts.">
+            <img class="md:h-80 max-w-full bg-white p-1 md:p-1 rounded" src="/assets/envision-blog-2.png" alt="An example of Envision's blog posts.">
         </div>
     </div>
         <div class="grid gap-4">
         <div>
-            <img class="h-80 max-w-full pl-2 bg-white rounded" src="/assets/envision-blog-3.png" alt="An example of Envision's blog posts.">
+            <img class="md:h-80 max-w-full pl-2 md:pl-2 bg-white rounded" src="/assets/envision-blog-3.png" alt="An example of Envision's blog posts.">
         </div>
     </div>
 </div>
