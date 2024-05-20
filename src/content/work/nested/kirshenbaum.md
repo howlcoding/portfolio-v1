@@ -15,7 +15,7 @@ url: https://www.kbcbakery.com/
 Kirshenbaum is a family owned and operated bakery that experienced viral fame shortly after opening. Following a rocky initial website launch, they reached out and contacted our team to start from the ground up.
 
 
-<img class="h-auto max-w-sm mx-auto my-10" src="/assets/kbc-logo.png" alt="Kirschenbaum Baking Co's logo.">
+<img class="h-auto md:max-w-sm mx-auto my-10" src="/assets/kbc-logo.png" alt="Kirschenbaum Baking Co's logo.">
 
 
 KBC had multiple needs. Firstly, their website had to be fun, warm, welcoming and appealing- a space that felt
@@ -62,13 +62,13 @@ This landed us with three main variations- our main colored version, one in blac
 
 
 
-<div class="grid grid-cols-3 gap-4 my-8">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
     <div>
         <img class="h-22 max-w-full rounded-lg object-cover" src="/assets/kbc-logo.png" alt="Kirschenbaum Baking Co's logo.">
     </div>
     <div>
         <img class="h-22 max-w-full rounded-lg bg-darkblue/50 p-4" src="/assets/kbc-logo-white.png" alt="Kirschenbaum Baking Co's logo in white.">
-        <figcaption class="mt-2 -ml-2 text-sm text-center w-56 text-gray-400 italic">Typeface: Brahma Rounded
+        <figcaption class="my-4 md:mt-2 mx-auto md:-ml-2 text-sm text-center w-56 text-gray-400 italic">Typeface: Brahma Rounded
         <div class="w-64 mt-2">
         <span class="bg-[#016791]/10 text-[#016791] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#016791]">#016791</span>
         <span class="bg-[#EC5E3D]/10 text-[#EC5E3D] text-xs font-bold me-2 px-2.5 py-0.5 rounded border border-[#EC5E3D]">#EC5E3D</span>
@@ -127,23 +127,23 @@ was crafted with attention and care.
     <div class="relative h-40 overflow-hidden rounded-md">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-button.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's button design.">
+            <img src="/assets/kbc-button.png" class="absolute block max-w-full h-auto md:h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's button design.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/kbc-menu.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's menu.">
+            <img src="/assets/kbc-menu.png" class="absolute block max-w-full h-auto md:h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's menu.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-faq.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's FAQ section.">
+            <img src="/assets/kbc-faq.png" class="absolute block max-w-full h-auto md:h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's FAQ section.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-footer.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's footer.">
+            <img src="/assets/kbc-footer.png" class="absolute block max-w-full h-auto md:h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's footer.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-markers.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's location markers on a map.">
+            <img src="/assets/kbc-markers.png" class="absolute block max-w-full h-auto md:h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="KBC's location markers on a map.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
@@ -220,7 +220,7 @@ For the most capabilities, we decided to use <a href="https://www.shopify.com/">
         <img class="h-full w-full object-cover rounded-lg" src="/assets/kbc-checkout.png" alt="An image of KBC's checkout section.">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cart.png" alt="An image of KBC's cart.">
+        <img class="h-full max-w-full object-cover rounded-lg" src="/assets/kbc-cart.png" alt="An image of KBC's cart.">
     </div>
     <div>
         <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-shopify.png" alt="An image of KBC's shopify layout.">
