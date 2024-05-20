@@ -1,6 +1,6 @@
 ---
 title: Kirshenbaum Baking Co.
-publishDate: 2024-05-15 00:00:00
+publishDate: 2024-05-8 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Ripples of milk floating against a white background
 description: |
@@ -62,7 +62,7 @@ This landed us with three main variations- our main colored version, one in blac
 
 
 
-<div class="grid grid-cols-2 md:grid-cols-3 gap-4 my-8">
+<div class="grid grid-cols-3 gap-4 my-8">
     <div>
         <img class="h-22 max-w-full rounded-lg object-cover" src="/assets/kbc-logo.png" alt="Kirschenbaum Baking Co's logo.">
     </div>

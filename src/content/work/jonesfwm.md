@@ -1,6 +1,6 @@
 ---
 title: Jones FWM
-publishDate: 2024-05-15 00:00:00
+publishDate: 2024-05-9 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Soft purple discs stacked and floating against a purple-grey background.
 description: |
@@ -74,28 +74,28 @@ The color envokes trust, efficiency and intelligence, and when paired with image
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-three-rows.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-three-rows.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' three step plan.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/jones-promise.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-promise.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' promise to clients.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-scheduling.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-scheduling.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' call scheduling section with glassmorphism.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-podcast.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-podcast.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' podcast information.">
         </div>
         <!-- Item 5 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/jones-commentary.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-commentary.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' commentary articles.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
         <button type="button" class="flex justify-center items-center me-4 h-full cursor-pointer group focus:outline-none" data-carousel-prev>
-            <span class="text-gray-400 hover:text-gray-900 dark:hover:text-white group-focus:text-gray-900 dark:group-focus:text-white">
+            <span class="text-gray-400 hover:text-white group-focus:text-white">
                 <svg class="rtl:rotate-180 w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5H1m0 0 4 4M1 5l4-4"/>
                 </svg>
@@ -103,7 +103,7 @@ The color envokes trust, efficiency and intelligence, and when paired with image
             </span>
         </button>
         <button type="button" class="flex justify-center items-center h-full cursor-pointer group focus:outline-none" data-carousel-next>
-            <span class="text-gray-400 hover:text-gray-900 dark:hover:text-white group-focus:text-gray-900 dark:group-focus:text-white">
+            <span class="text-gray-400 hover:text-white group-focus:text-white">
                 <svg class="rtl:rotate-180 w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                 </svg>
@@ -141,43 +141,38 @@ The color envokes trust, efficiency and intelligence, and when paired with image
 
 <br><br>
 
-With our guidelines in place, we were able to move into the bulk of the project- the website itself. When creating
-each individual component, at the forefront of my mind was to ensure it felt both cozy and playful. Their story and
-business evoked a sense of family fun, and it was important to me that everything we created for them was a reflection of that. From little details sprinkled throughout, to pieces of the Kirschenbaum's own story, everything
-was crafted with attention and care.
+Jones' services included a number of different portals, where clients could access their accounts, funds, and schedule various types of meetings. Allowing clients to continue usage without risk of confusion or delay was a non-negotiable, which meant adapting to the new design without shaking things up too much. This led us to use pre-existing integrations where layouts would be the same for all practical purposes, with adjustments made where necessary on purely a design level to coordinate with the new look.
+
+<br><br>
+
+Integrations were made with <a href="https://main.advyzon.com/main/index.html">Advyzon</a>, <a href="https://get.appointmentcore.com/">AppointmentCore</a>, <a href="https://emoneyadvisor.com/">eMoney</a>, and <a href="https://altpro.umb.com/">AltPro</a>.
 
 <br><br>
 
 
-
-
 <div id="custom-controls-gallery" class="relative w-full" data-carousel="slide">
     <!-- Carousel wrapper -->
-    <div class="relative h-40 overflow-hidden rounded-md">
+    <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-button.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-appointment.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' appointment integration.">
         </div>
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-            <img src="/assets/kbc-menu.png" class="absolute block max-w-full h-40 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-portal.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' client portal integration.">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-faq.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-client-menu.png" class="absolute block max-w-full h-56 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' client drop-down menu.">
         </div>
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-footer.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
-        </div>
-        <!-- Item 5 -->
-        <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/assets/kbc-markers.png" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+            <img src="/assets/jones-client-footer.png" class="absolute block max-w-full h-56 object-cover -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Jones' client portal menu located in footer.">
         </div>
     </div>
     <div class="flex justify-center items-center pt-4">
         <button type="button" class="flex justify-center items-center me-4 h-full cursor-pointer group focus:outline-none" data-carousel-prev>
-            <span class="text-gray-400 hover:text-gray-900 dark:hover:text-white group-focus:text-gray-900 dark:group-focus:text-white">
+            <span class="text-gray-400 hover:text-white group-focus:text-white">
                 <svg class="rtl:rotate-180 w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5H1m0 0 4 4M1 5l4-4"/>
                 </svg>
@@ -185,7 +180,7 @@ was crafted with attention and care.
             </span>
         </button>
         <button type="button" class="flex justify-center items-center h-full cursor-pointer group focus:outline-none" data-carousel-next>
-            <span class="text-gray-400 hover:text-gray-900 dark:hover:text-white group-focus:text-gray-900 dark:group-focus:text-white">
+            <span class="text-gray-400 hover:text-white group-focus:text-white">
                 <svg class="rtl:rotate-180 w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                 </svg>
@@ -194,10 +189,6 @@ was crafted with attention and care.
         </button>
     </div>
 </div>
-
-<br>
-
-The cherry element was used as a prefix to many headings, both for personality <i class="text-darkblue">and</i> to hint at taste, as was the case with many pieces we used. Small variations on the primary red accent kept it versatile enough to be used against dark and light backgrounds, repeated in most buttons and links across the site. Vital information such as location and business hours were also spread out, to keep that information as accessible and memorable as possible.
 
 <br><br>
 
@@ -230,31 +221,33 @@ The cherry element was used as a prefix to many headings, both for personality <
 
 <br><br>
 
-There were two main parts needed for KBC's e-commerce; a local ordering option, and nationwide shipping functionality. To make this as painless as possible for them and their customers, we elected to integrate their pre-existing local service, <a href="https://pos.toasttab.com/ca/">Toast</a>. With tweaks and customizations made to their menu and layout in Toast, we could focus our full attention on building their shipping across the US from the ground up.
+As I mentioned in the overview, Jones' book, <i class="text-darkblue">UnBrainwashed Investing</i> had just recently been published. While being a secondary offering from his overall customer services, it was nonetheless a great achievement and an important inclusion on his website in its own right. I strived to give it an almost separate space, a dedicated page where it could singularly shine, while also adding in mentions and reminders in other areas as tie-ins where it made sense.
 
 <br><br>
 
-For the most capabilities, we decided to use <a href="https://www.shopify.com/">Shopify</a>, creating a cohesive set of pages we could link within a dropdown menu. We were given a set of high-quality images to populate every item, letting everything else take a back seat to the products themselves.
+The end result was a sort of miniature landing page of its own, giving it the space to show quotes, links, and information on the book's intent and purpose as a whole. 
 
 <br><br>
 
-<div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+
+
+<div class="grid grid-cols-1 gap-4">
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cookie.png" alt="">
+        <img class="h-auto max-w-full object-cover rounded-lg" src="/assets/jones-book-quote.png" alt="A quote from Jones' book.">
     </div>
     <div>
-        <img class="h-full w-full rounded-lg object-cover" src="/assets/kbc-description.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/jones-book-points.png" alt="Bullet points about Jones' book.">
     </div>
     <div>
-        <img class="h-full w-full object-cover rounded-lg" src="/assets/kbc-checkout.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/jones-free-chapter.png" alt="A section offering access to a free chapter of Jones' book.">
+    </div>
+</div>
+<br>
+<div class="grid grid-cols-2 gap-2">
+    <div>
+        <img class="h-56 w-72 object-cover rounded-lg" src="/assets/jones-book-cover.jpeg" alt="Jones' book cover.">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-cart.png" alt="">
-    </div>
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-shopify.png" alt="">
-    </div>
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="/assets/kbc-toast.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/assets/jones-author.png" alt="Information on Jones as an author.">
     </div>
 </div>
